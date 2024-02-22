@@ -10,10 +10,9 @@
 
   
  # Objetivos 🔭:
- let areaAtuacao = "Desenvolvedor Web";
+ let areaAtuacao = "Desenvolvedor Web.";
  
- alert(`Atualmente não estou trabalhando em alguma área da computação, porém, o meu objetivo é ingressar no mercado de trabalho como ${areaAtuacao}.
-          Também estou aberto a estágios não remunerados, com o objetivo de colaborar para a empresa, e também obter experiência e crescer na área.`);
+ alert("Atualmente não estou trabalhando em alguma área da computação, porém, o meu objetivo é ingressar no mercado de trabalho como " + areaAtuacao + " Também estou aberto a estágios não remunerados, com o objetivo de colaborar com a empresa, e também obter experiência e crescer na área.");
 
  # Semeando 🌱:
  alert("Atualmente estou estudando sobre linguagens de programação front-end, mas focando também nos fundamentos da programação,
