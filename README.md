@@ -1,4 +1,5 @@
-### Hi there 👋
+# Olá, me chamo Franklin ! 
+# Bem vindo ao meu perfil GitHub 👋
 
 <!--
 **FrankLu464/FrankLu464** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
