@@ -18,6 +18,8 @@
  # Contatos 📫:
  alert("Como entrar em contato comigo: (74)98827-3600 / franklinluciano464@gmail.com / www.instagram.com/franklinlu464 /          www.linkedin.com/in/franklin-luciano-nascimento-de-sá-2b0282232");
 
+ <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
   
 
 <!--
