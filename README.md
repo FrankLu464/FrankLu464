@@ -1,6 +1,6 @@
-// Olá, me chamo Franklin Luciano ! 
+# Olá, me chamo Franklin Luciano ! 
 
-// Bem vindo ao meu perfil GitHub 👋
+# Bem vindo ao meu perfil GitHub 👋
 
 let areaAtuacao = "Desenvolvedor Web";
   
