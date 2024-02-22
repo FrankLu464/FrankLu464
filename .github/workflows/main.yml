@@ -13,8 +13,8 @@ jobs:
       # Snake Animation
       - uses: Platane/snk@master
         id: snake-gif
-        with: 100em
-          github_user_name: FrankLu464
+        with:
+          github_user_name: seu-usuário-aqui
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - uses: crazy-max/ghaction-github-pages@v2.1.3
