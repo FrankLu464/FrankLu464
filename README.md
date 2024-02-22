@@ -2,7 +2,11 @@
 
 # Bem vindo ao meu perfil GitHub 👋
 
-
+<div>
+<a href="https://github.com/FrankLu464">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
 
   
  # Objetivos 🔭:
@@ -18,7 +22,7 @@
  # Contatos 📫:
  alert("Como entrar em contato comigo: (74)98827-3600 / franklinluciano464@gmail.com / www.instagram.com/franklinlu464 /          www.linkedin.com/in/franklin-luciano-nascimento-de-sá-2b0282232");
 
- <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+
 
   
 
