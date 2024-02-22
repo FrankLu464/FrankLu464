@@ -3,7 +3,7 @@
 # Bem vindo ao meu perfil GitHub 👋
 
 
-let areaAtuacao = "Desenvolvedor Web";
+#let areaAtuacao = "Desenvolvedor Web";
   
  # Objetivos 🔭: 
  alert(`Atualmente não estou trabalhando em alguma área da computação, porém, o meu objetivo é ingressar no mercado de trabalho como ${areaAtuacao}.
