@@ -11,8 +11,7 @@ let areaAtuacao = "Desenvolvedor Web";
  - Semeando 🌱: alert("Atualmente estou estudando sobre linguagens de programação front-end, mas focando também nos fundamentos da programação,
                         como a lógica de programação, algoritmos, estruturas de dados, etc...");
    
- - Contatos 📫: alert("Como entrar em contato comigo: (74)98827-3600 / franklinluciano464@gmail.com / www.instagram.com/franklinlu464 /           
-                        www.linkedin.com/in/franklin-luciano-nascimento-de-sá-2b0282232");
+ - Contatos 📫: alert("Como entrar em contato comigo: (74)98827-3600 / franklinluciano464@gmail.com / www.instagram.com/franklinlu464 /          www.linkedin.com/in/franklin-luciano-nascimento-de-sá-2b0282232");
 
   
 
