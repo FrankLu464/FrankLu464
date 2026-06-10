@@ -8,19 +8,17 @@
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FrankLu464&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-
   
  # Objetivos 🔭:
- let areaAtuacao = "Desenvolvedor Web.";
+ let areaAtuacao = "DevOps.";
  
- alert("Atualmente não estou trabalhando em nenhuma área da computação, porém, o meu objetivo é ingressar no mercado de trabalho como " + areaAtuacao + " Também estou aberto a estágios não remunerados, com o objetivo de colaborar com a empresa, e também obter experiência e crescer na área.");
+ alert("Atualmente não estou trabalhando em nenhuma área da computação, porém, o meu objetivo é ingressar no mercado de trabalho como " + areaAtuacao");
 
  # Semeando 🌱:
- alert("Atualmente estou estudando sobre linguagens de programação front-end, mas focando também nos fundamentos da programação,
-                        como a lógica de programação, algoritmos, estruturas de dados, etc...");
+ alert("Atualmente estou estudando sobre DevOps e buscando transição para esta área, aprofundando-se em Docker, conteiners, nuvem, e na infraestrutura no geral para o desenvolvimento de sistemas robustos e organizados!");
    
  # Contatos 📫:
- alert("Como entrar em contato comigo: (74)98827-3600 / franklinluciano464@gmail.com / www.instagram.com/franklinlu464 / www.linkedin.com/in/franklin-luciano-nascimento-de-sá-2b0282232");
+ alert("Como entrar em contato comigo: (74)98827-3600 / franklinluciano464@gmail.com / www.linkedin.com/in/franklin-luciano-nascimento-de-sá-2b0282232");
 
 
 
