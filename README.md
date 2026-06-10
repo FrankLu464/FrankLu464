@@ -15,7 +15,7 @@
  alert("Atualmente não estou trabalhando em nenhuma área da computação, porém, o meu objetivo é ingressar no mercado de trabalho como " + areaAtuacao");
 
  # Semeando 🌱:
- alert("Atualmente estou estudando sobre DevOps e buscando transição para esta área, aprofundando-se em Docker, containers, nuvem, e na infraestrutura no geral para o desenvolvimento de sistemas robustos e organizados!");
+ alert("Atualmente estou estudando sobre DevOps e buscando transição para esta área, aprofundando-se teoricamente e na prática para automoção e padronização com Infraestrutura como código, Conteinerização e Orquestração com Docker e Kubernetes, Cloud Computing para o desenvolvimento de sistemas robustos e estruturados!");
    
  # Contatos 📫:
  alert("Como entrar em contato comigo: (74)98827-3600 / franklinluciano464@gmail.com / www.linkedin.com/in/franklin-luciano-nascimento-de-sá-2b0282232");
